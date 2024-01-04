@@ -6,11 +6,11 @@
 - 💬 Ask me about Human health and diseases. Also about effect of breathwork and meditation on the mind and body
 - 🤔 I’m looking for help with Statistics and Machine Learning applications in Omics Integration
 - ⚡ Fun fact: I ran half marathon in 2021
-- 📫 How to reach me: [deepali.kundnani@gmail.com](mailto:deepali.kundnani@gmail.com)
+- 📫 How to reach me: [deepali.kundnani@gmail.com](mailto:deepali.kundnani@gmail.com) <a href="https://linkedin.com/in/deepalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepali kundnani" height="30" width="40" /></a>
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ishika verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepali kundnani" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
