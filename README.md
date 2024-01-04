@@ -22,9 +22,9 @@
 -->
 <h2 align="left"> 🏆 GitHub Trophies  </h2>
 
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=DKundnani" alt="DKundnani" /></p>\
-
-
+<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=DKundnani" alt="DKundnani" /></p>
+<!--
+-->
 <h2 align="left"> 📱 GitHub Stats  </h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKundnani&layout=donut-vertical" alt="DKundnani" /></p>
