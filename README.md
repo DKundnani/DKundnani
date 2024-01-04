@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DKundnani&card_width=468)](https://git.io/streak-stats"" alt="DKundnani" /></p>
 
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=DKundnani&layout=compact&theme=algolia" alt="DKundnani" /></p>
+<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=DKundnani&&no-bg=true" alt="DKundnani" /></p>
 
