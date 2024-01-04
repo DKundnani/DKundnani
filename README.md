@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on dilineating ribonucleotide incorporation patterns in Human Genome. Stay tuned for updates in 2024
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning how to maintain Github version control
 
 - 👯 I’m looking to collaborate on innovative ideas to solve problems with high impact.
 
