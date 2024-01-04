@@ -12,7 +12,9 @@
 
 - ⚡ Fun fact: I ran half marathon in 2021
 
-- 📫 How to reach me: [deepali.kundnani@gmail.com](mailto:deepali.kundnani@gmail.com) <a href="https://linkedin.com/in/deepalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepali kundnani" height="30" width="40" /></a>
+- 📫 How to reach me: [deepali.kundnani@gmail.com](mailto:deepali.kundnani@gmail.com)
+
+<a href="https://linkedin.com/in/deepalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepali kundnani" height="30" width="40" /></a>
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
