@@ -22,7 +22,7 @@
 -->
 <h2 align="left"> 🏆 GitHub Trophies  </h2>
 
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=DKundnani" alt="DKundnani" \></p>
+<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=DKundnani" alt="DKundnani" /></p>\
 
 
 <h2 align="left"> 📱 GitHub Stats  </h2>
