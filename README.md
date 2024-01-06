@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DKundnani&show_icons=true&theme=default" alt="DKundnani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DKundnani&card_width=468")](https://git.io/streak-stats" alt="DKundnani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DKundnani&card_width=468")](https://git.io/streak-stats" alt="DKundnani" /></p>
 
 
 <h3 align="left"> Dont forget to Follow 👻 and Star ⭐ the projects/repos for future updates and use  </h3>
