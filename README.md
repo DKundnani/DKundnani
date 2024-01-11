@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKundnani&layout=donut-vertical" alt="DKundnani" /></p>
 
-<p>&nbsp;<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DKundnani" alt="GitHub Streak" /></a></p>
+<p>&nbsp;<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DKundnani&card_width=468" alt="GitHub Streak" /></a></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DKundnani&show_icons=true&theme=default" alt="DKundnani" /></p>
 
