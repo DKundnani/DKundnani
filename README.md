@@ -27,10 +27,9 @@
 
 <h2 align="left"> 📱 GitHub Stats  </h2>
 
-<p>&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DKundnani&card_width=468)](https://git.io/streak-stats)</p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DKundnani&card_width=468")](https://git.io/streak-stats" alt="DKundnani" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKundnani&layout=donut-vertical" alt="DKundnani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DKundnani&card_width=468")]("https://git.io/streak-stats" alt="DKundnani")/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DKundnani&show_icons=true&theme=default" alt="DKundnani" /></p>
 
