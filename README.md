@@ -1,13 +1,13 @@
 <h1 align="center"> Hi there 👋 You are looking at Deepali Kundnani's Profile</h1>
 <h3 align="center"> A passionate Bioinformatician and Data Scientist </h3>
 
-- 🔭 I’m currently working on dilineating ribonucleotide incorporation patterns in Human Genome. Stay tuned for updates in 2025
+- 🔭 I’m currently working on publishing ribonucleotide incorporation patterns in Human Genome. Stay tuned for updates in 2025
 
-- 🌱 I’m currently learning how to build a website: [dkundnani.bio](https://dkundnani.bio)
+- 🌱 I’m currently learning how to build a website: [dkundnani.bio](https://dkundnani.bio) and AWS Cloud Computing.
 
 - 👯 I’m looking to collaborate on innovative ideas to solve problems with high impact.
 
-- 💬 Ask me about Human health and diseases. Also about effect of breathwork and meditation on the mind and body
+- 💬 Ask me about Human health and diseases. Also about effect of breathwork and meditation on the mind and body.
 
 - 🤔 I’m looking for help with Statistics and Machine Learning applications in Omics Integration
 
