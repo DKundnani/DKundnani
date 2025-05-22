@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 You are looking at Deepali Kundnani's Profile</h1>
 <h3 align="center"> A passionate Bioinformatician and Data Scientist </h3>
 
-- 🔭 I’m currently working on publishing ribonucleotide incorporation patterns in Human Genome. Stay tuned for updates in 2025
+- 🔭 I’m currently working on publishing ribonucleotide incorporation patterns in Human Genome and preparing for my Defense. Stay tuned for updates in Summer of 2025.
 
 - 🌱 I’m currently learning how to build a bootstrap website: [dkundnani.bio](https://dkundnani.bio) and AWS Cloud Computing.
 
