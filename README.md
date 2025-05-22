@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on publishing ribonucleotide incorporation patterns in Human Genome. Stay tuned for updates in 2025
 
-- 🌱 I’m currently learning how to build a website: [dkundnani.bio](https://dkundnani.bio) and AWS Cloud Computing.
+- 🌱 I’m currently learning how to build a bootstrap website: [dkundnani.bio](https://dkundnani.bio) and AWS Cloud Computing.
 
 - 👯 I’m looking to collaborate on innovative ideas to solve problems with high impact.
 
 - 💬 Ask me about Human health and diseases. Also about effect of breathwork and meditation on the mind and body.
 
-- 🤔 I’m looking for help with Statistics and Machine Learning applications in Omics Integration
+- 🤔 I’m looking for help with AI / ML applications in ribonucleotide embedment prediction, and LSTM models in ribonucleotide detection from nanopore sequencing.
 
 - ⚡ Fun fact: I ran half marathon in 2021
 
