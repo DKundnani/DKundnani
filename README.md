@@ -1,17 +1,15 @@
 <h1 align="center"> Hi there 👋 You are looking at Deepali Kundnani's Profile</h1>
 <h3 align="center"> A passionate Bioinformatician and Data Scientist </h3>
 
-- 🔭 I’m currently working on publishing ribonucleotide incorporation patterns in Human Genome and preparing for my Defense. Stay tuned for updates in Summer of 2025.
+- 🔭 I’m a recent Ph.D. in Bioinformatics from GeorgiaTech, with prior background molecular biology.
 
-- 🌱 I’m currently learning how to build a bootstrap website: [dkundnani.bio](https://dkundnani.bio) and AWS Cloud Computing.
+- 🔬 My work includes validation of a novel epigenetic mark in human genome, with previous biomarker discovery and validation for early detection of cancer.
 
-- 👯 I’m looking to collaborate on innovative ideas to solve problems with high impact.
+- 🌱 I’m actively looking for my next opportunity in the field of bioinformatics and diagnostics.
 
-- 💬 Ask me about Human health and diseases. Also about effect of breathwork and meditation on the mind and body.
+- 👯 I’m looking for collaborations on innovative projects with a greater impact on human health.
 
-- 🤔 I’m looking for help with AI / ML applications in ribonucleotide embedment prediction, and LSTM models in ribonucleotide detection from nanopore sequencing.
-
-- ⚡ Fun fact: I ran half marathon in 2021
+- ⚡ Fun fact: I ran half marathon in 2021.
 
 - 📫 How to reach me: [deepali.kundnani@gatech.edu](mailto:deepali.kundnani@gatech.edu) <a href="https://linkedin.com/in/deepalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepali kundnani" height="30" width="40" /></a>
 
